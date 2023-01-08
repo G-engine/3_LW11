@@ -1,0 +1,15 @@
+D:\projects\C#\lw11\lw11\bin\Debug\net6.0\lw11.exe
+D:\projects\C#\lw11\lw11\bin\Debug\net6.0\lw11.deps.json
+D:\projects\C#\lw11\lw11\bin\Debug\net6.0\lw11.runtimeconfig.json
+D:\projects\C#\lw11\lw11\bin\Debug\net6.0\lw11.dll
+D:\projects\C#\lw11\lw11\bin\Debug\net6.0\lw11.pdb
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.csproj.AssemblyReference.cache
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.AssemblyInfoInputs.cache
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.AssemblyInfo.cs
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.csproj.CoreCompileInputs.cache
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.dll
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\refint\lw11.dll
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.pdb
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\lw11.genruntimeconfig.cache
+D:\projects\C#\lw11\lw11\obj\Debug\net6.0\ref\lw11.dll

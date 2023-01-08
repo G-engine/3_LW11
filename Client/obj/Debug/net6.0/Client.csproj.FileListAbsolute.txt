@@ -1,0 +1,15 @@
+D:\projects\C#\lw11\Client\bin\Debug\net6.0\Client.exe
+D:\projects\C#\lw11\Client\bin\Debug\net6.0\Client.deps.json
+D:\projects\C#\lw11\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\projects\C#\lw11\Client\bin\Debug\net6.0\Client.dll
+D:\projects\C#\lw11\Client\bin\Debug\net6.0\Client.pdb
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.dll
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\refint\Client.dll
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.pdb
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\projects\C#\lw11\Client\obj\Debug\net6.0\ref\Client.dll
